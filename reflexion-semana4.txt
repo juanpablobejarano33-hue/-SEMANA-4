@@ -1,0 +1,11 @@
+Es importante porque permite que las comunidades no dependan de grandes empresas o plataformas 
+cerradas que pueden cambiar sus reglas de un día para otro. Cuando usan tecnologías abiertas
+como Node.js, pueden adaptar las herramientas a sus necesidades reales, sin tener que pagar 
+licencias costosas ni esperar a que alguien externo resuelva sus problemas. 
+Además, al ser el código abierto, otras personas o colectivos pueden revisarlo, 
+mejorarlo y aprender de él, creando un efecto colaborativo muy bonito. Esto fortalece
+la autonomía tecnológica y la soberanía digital de barrios, colectivos y organizaciones 
+sociales. También facilita la confianza, porque al poder ver cómo funciona la herramienta
+por dentro, se reducen los riesgos de vigilancia o manipulación. En definitiva, 
+construir con tecnologías abiertas es una forma de poner el poder tecnológico en manos
+de la gente, no solo de unos pocos.
